@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am currently seeking opportunities in the Data Analyst domain. I have completed an internship as a Data Analyst, where I worked on real-world datasets and business use cases.
-I have built multiple end-to-end portfolio projects, including Churn Analysis & Prediction, Product Campaign and Sales Analytics, Bank Transaction Analysis, and SQL-based Data Warehousing. These projects involved data cleaning, exploratory analysis, feature engineering, KPI tracking, and dashboard development.
-I am currently upskilling in Databricks to strengthen my big data and analytics engineering capabilities.
-You can discuss with me topics related to Power BI, SQL, Python, Excel, Tableau, and data analytics best practices, including data modeling, reporting, and insight generation.
+**I am currently seeking opportunities in the Data Analyst domain. I have completed an internship as a Data Analyst, where I worked on real-world datasets and business use cases.</br>
+I have built multiple end-to-end portfolio projects, including Churn Analysis & Prediction, Product Campaign and Sales Analytics, Bank Transaction Analysis, and SQL-based Data Warehousing. These projects involved data cleaning, exploratory analysis, feature engineering, KPI tracking, and dashboard development.</br>
+I am currently upskilling in Databricks to strengthen my big data and analytics engineering capabilities.</br>
+You can discuss with me topics related to Power BI, SQL, Python, Excel, Tableau, and data analytics best practices, including data modeling, reporting, and insight generation.**
 
 
 ## 🌐 Socials:

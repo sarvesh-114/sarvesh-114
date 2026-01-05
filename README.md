@@ -21,4 +21,4 @@ You can discuss with me topics related to Power BI, SQL, Python, Excel, Tableau,
 ---
 [![](https://visitcount.itsvg.in/api?id=Sarvesh-114&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
